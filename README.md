@@ -21,12 +21,12 @@ CODE SEGMENT
 CODE ENDS
     END START
 ```
->>
-C : \ Download \ ReadyForAssembly > edit Main.asm
-C : \ Download \ ReadyForAssembly > masm Main.asm
-C : \ Download \ ReadyForAssembly > link Main.obj
-C : \ Download \ ReadyDorAssembly > Main.exe
-
+`
+C : \ Download \ ReadyForAssembly > edit Main.asm 
+C : \ Download \ ReadyForAssembly > masm Main.asm 
+C : \ Download \ ReadyForAssembly > link Main.obj 
+C : \ Download \ ReadyDorAssembly > Main.exe 
+`
 > OutPut :
 
 ![Output](/output/output.png)
