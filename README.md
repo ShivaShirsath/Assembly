@@ -1,5 +1,7 @@
-# ReadyForAssemblyLanguage
+# Assembly
+
 > Program :
+
 ```asm
 DATA SEGMENT
      MSG DB "Hello World !$"
@@ -21,6 +23,7 @@ CODE SEGMENT
 CODE ENDS
     END START
 ```
+
 * How To Run :   
    * Open Terminal in this Folder
    * Using `edit` command for creating/editing `.asm` like below
