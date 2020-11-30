@@ -27,7 +27,7 @@ CODE ENDS
       > **`C : \ Download \ ReadyForAssembly > edit Main.asm`**
    * Save Edited file and Exit to terminal
    * Using **`masm`** command for making the assembly to **`File.obj`** like below
-      > **`C : \ Download \ ReadyForAssembly > masm Main.asm'**
+      > **`C : \ Download \ ReadyForAssembly > masm Main.asm`**
    * Using **`link`** command for linking the objects to **`File.exe`** like below
       > **`C : \ Download \ ReadyForAssembly > link Main.obj`**
    * Using File name with extension **`.exe'** for Running the Executable like below
