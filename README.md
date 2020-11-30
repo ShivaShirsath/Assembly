@@ -1,4 +1,5 @@
 # ReadyForAssemblyLanguage
+> Program :
 ```asm
 DATA SEGMENT
      MSG DB "Hello World !$"
@@ -20,14 +21,7 @@ CODE SEGMENT
 CODE ENDS
     END START
 ```
-![img1][]
-![img1][]
-![img1][]
-![img1][]
-![img1][]
-![img1][]
-![img1][]
-![img1][]
-![img1][]
+>> OutPut :
+![Output][output]
 
-[]: 
+[output]: /output/output.png
