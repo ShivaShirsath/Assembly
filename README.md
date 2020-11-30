@@ -24,7 +24,7 @@ CODE ENDS
 * How To Run :   
    * Open Terminal in this Folder
    * Using **`edit`** command for creating/editing **`File.asm`** like below
-      > **`C : \ Download \ ReadyForAssembly > edit Main.asm`**
+      > `C : \ Download \ ReadyForAssembly > edit Main.asm`**
    * Save Edited file and Exit to terminal
    * Using **`masm`** command for making the assembly to **`File.obj`** like below
       > **`C : \ Download \ ReadyForAssembly > masm Main.asm`**
