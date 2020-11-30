@@ -21,5 +21,5 @@ CODE SEGMENT
 CODE ENDS
     END START
 ```
-> OutPut :   
+> OutPut :    
 ![Output](/output/output.png)
