@@ -24,7 +24,7 @@ CODE ENDS
 > How To Run :   
 
    Step 1 :   
-        Open Terminal in this Folder   
+     Open Terminal in this Folder   
         
    Step 2 :   
         Using `edit` command for creating/editing `File.asm` like below   
