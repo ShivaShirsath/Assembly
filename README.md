@@ -1,6 +1,5 @@
 # ReadyForAssemblyLanguage
 > Program :
-
 ```asm
 DATA SEGMENT
      MSG DB "Hello World !$"
@@ -23,7 +22,4 @@ CODE ENDS
     END START
 ```
 > OutPut :
-
-![Output][output]
-
-[output]: /output/output.png
+![Output](/output/output.png)
