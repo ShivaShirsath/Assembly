@@ -21,13 +21,13 @@ CODE SEGMENT
 CODE ENDS
     END START
 ```
->>C:\DOWNLOAD\READYFORASSEMBLY\edit main.asm
+>> C:\Download\ReadyForAssembly\edit Main.asm
 
->>C:\DOWNLOAD\READYFORASSEMBLY\masm main.asm
+>> C:\Download\ReadyForAssembly\masm Main.asm
 
->>C:\DOWNLOAD\READYFORASSEMBLY\link main.obj
+>> C:\Download\ReadyForAssembly\link Main.obj
 
->>C:\DOWNLOAD\READYFORASSEMBLY\main.exe
+>> C:\Download\ReadyDorAssembly\Main.exe
 
 > OutPut :
 
