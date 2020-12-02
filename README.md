@@ -39,5 +39,5 @@ CODE ENDS
 
 ![Output](output.png)
 
-> Download > ##[DOS Box](DOS%20Box_1.1.1.apk?raw=true)
-> Download Required Files > ##[TC zip](TC.zip?raw=true)
+## Download : [DOS Box](DOS%20Box_1.1.1.apk?raw=true)
+## Download Required Files : ##[TC zip](TC.zip?raw=true)
