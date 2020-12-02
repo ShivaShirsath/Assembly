@@ -4,7 +4,9 @@
 
 ```asm
 DATA SEGMENT
+
      MSG DB "Hello World !$"
+     
 DATA ENDS
 
 CODE SEGMENT  
