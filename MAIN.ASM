@@ -3,9 +3,7 @@ DATA SEGMENT
 DATA ENDS
 CODE SEGMENT  
     ASSUME DS:DATA, CS:CODE
-    
     START:
-        
         MOV AX,DATA
         MOV DS,AX
         
