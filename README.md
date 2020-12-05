@@ -31,7 +31,7 @@ CODE ENDS
 * How To Run :
  
    * Exit to terminal
-   * Use **‎ `EDIT` ‎** command for creating / editing `.ASM` file as below
+   * Use `EDIT` command for creating / editing `.ASM` file as below
       * `C : \ TC \ BIN > EDIT MAIN.ASM`
    * Save Edited file & Exit to terminal
    * Use `TASM` command for making the assembly code to object code ( `.ASM` to `.OBJ` ) as below
