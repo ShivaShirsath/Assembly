@@ -30,15 +30,15 @@ CODE ENDS
 
 * How To Run :   
    * Open Terminal in this Folder
-   * Using `edit` command for creating/editing `.asm` like below
-      > `C : \ Download \ ReadyForAssembly > edit Main.asm`
+   * Using `EDIT` command for creating/editing `.ASM` file as below
+      > `C : \ TC \ BIN > EDIT MAIN.ASM`
    * Save Edited file and Exit to terminal
-   * Using `masm` command for making the assembly to `.obj` like below
-      > `C : \ Download \ ReadyForAssembly > masm Main.asm`
-   * Using `link` command for linking the objects to `.exe` like below
-      > `C : \ Download \ ReadyForAssembly > link Main.obj`
-   * Using File name with extension `.exe' for Running the Executable like below
-      > `C : \ Download \ ReadyDorAssembly > Main.exe`
+   * Using `TASM` command for making the assembly to object ( `.ASM` to `.OBJ` ) file as below
+      > `C : \ TC \ BIN > TASM MAIN.ASM`
+   * Using `TLINK` command for linking the objects to executable ( `.OBJ` to `.EXE` ) file as below
+      > `C : \ TC \ BIN > TLINK MAIN.OBJ`
+   * Using File name with extension `.EXE' for Running the Executable as below
+      > `C : \ TC \ BIN > MAIN.EXE`
 
 > OutPut :
 
