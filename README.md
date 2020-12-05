@@ -28,7 +28,7 @@ CODE ENDS
     END START
 ```
 
-* How To Run :
+> How To Run :
  
    * Exit to terminal
    * Use `EDIT` command for creating / editing `.ASM` file as below
