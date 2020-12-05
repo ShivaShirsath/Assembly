@@ -30,15 +30,15 @@ CODE ENDS
 
 * How To Run :
  
-   * Exit to terminal / Open Terminal in this Folder
-   * Using `EDIT` command for creating/editing `.ASM` file as below
+   * Exit to terminal
+   * Use `EDIT` command for creating / editing `.ASM` file as below
       * `C : \ TC \ BIN > EDIT MAIN.ASM`
    * Save Edited file & Exit to terminal
-   * Using `TASM` command for making the assembly code to object code ( `.ASM` to `.OBJ` ) as below
+   * Use `TASM` command for making the assembly code to object code ( `.ASM` to `.OBJ` ) as below
       * `C : \ TC \ BIN > TASM MAIN.ASM`
-   * Using `TLINK` command for linking the object code to executable code ( `.OBJ` to `.EXE` ) as below
+   * Use `TLINK` command for linking the object code to executable code ( `.OBJ` to `.EXE` ) as below
       * `C : \ TC \ BIN > TLINK MAIN.OBJ`
-   * Using file name with extension `.EXE' for Running the Executable file as below
+   * Use file name with extension `.EXE' for Running the Executable file as below
       * `C : \ TC \ BIN > MAIN.EXE`
 
 > OutPut :
