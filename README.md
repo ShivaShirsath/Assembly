@@ -46,5 +46,5 @@ CODE ENDS
 ![Output](output.png)
 
 ## [⇩ DOS Box](DOS%20Box_1.1.1.apk?raw=true)
-## [⇩ Required Files](TC.zip?raw=true) (Extract this in phone storage)
+## [⇩ Required Files](TC.zip?raw=true) (Extract to phone storage)
 ## [⇩ Assembler](Assembler_2.0.apk?raw=true)
