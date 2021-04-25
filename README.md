@@ -46,7 +46,7 @@ CODE ENDS
 ![Output](output.png)
 
 <h2 align=center><a href=DOS%20Box_1.1.1.apk?raw=true>⇩ DOS Box ⇩</a></h2>
- <h2 align=center><a href=TC.zip?raw=true>⇩ Required Files (Extract to phone storage) ⇩</a></h2>
-<h2 align=center><a href=Assembler_3.0.apk?raw=true>⇩  Assembler ⇩</a></h2>
+ <h2 align=center><a href=TC.zip?raw=true>⇩ Required Files ⇩<br>(Extract to phone storage)</a></h2>
+<h2 align=center><a href=Assembler.apk?raw=true>⇩  Assembler ⇩</a></h2>
 
 
