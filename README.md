@@ -32,14 +32,14 @@ CODE ENDS
 
 * Exit to terminal
 * Use `EDIT` command for creating / editing `.ASM` file as below
-   `EDIT MAIN.ASM`
+   + `EDIT MAIN.ASM`
 * Save Edited file & Exit to terminal
 * Use `TASM` command for making the assembly code to object code ( `.ASM` to `.OBJ` ) as below
-   `TASM MAIN.ASM`
+   + `TASM MAIN.ASM`
 * Use `TLINK` command for linking the object code to executable code ( `.OBJ` to `.EXE` ) as below
-   `TLINK MAIN.OBJ`
+   + `TLINK MAIN.OBJ`
 * Use file name with extension `.EXE` for Running the Executable file as below
-   `MAIN.EXE`
+   + `MAIN.EXE`
 
 > OutPut :
 
